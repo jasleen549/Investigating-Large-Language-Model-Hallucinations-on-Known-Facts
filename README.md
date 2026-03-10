@@ -2,7 +2,7 @@
 
 
 ## Overview
-Large Language Models such as LLaMA, GPT, and Pythia often generate responses that appear confident but may contain incorrect or fabricated information. These hallucinations reduce trust in AI systems and present challenges for real-world deployment. This project investigates how internal model signals can be used to detect hallucinated responses in LLM outputs.
+Large Language Models such as LLaMA, GPT, OPT and Pythia often generate responses that appear confident but may contain incorrect or fabricated information. These hallucinations reduce trust in AI systems and present challenges for real-world deployment. This project investigates how internal model signals can be used to detect hallucinated responses in LLM outputs.
 
 ## Project Goal
 The goal of this project is to build a machine learning system that can classify whether an LLM response is factually correct or hallucinated when answering questions with known factual answers.
